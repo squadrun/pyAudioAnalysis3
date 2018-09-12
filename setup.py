@@ -25,7 +25,7 @@ setup(
     # license='MIT License',  # example license
     description='Python tool which gives various audio processing functionalities like silence removal',
     long_description=README,
-    url='https://github.com/squadrun/pyAudioAnalysis3',
+    url='https://github.com/squadrun/pyAudioAnalysis3/tree/ab_add_setup_file',
     # author='Ketan Bhatt',
     # author_email='ketanbhatt1006@gmail.com',
     # classifiers=[
