@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='pyAudioAnalysis3',
-    # version='0.2.5',
+    version='0.0.1',
     packages=find_packages(),
     install_requires=[
         'numpy>=1.13.1',
